@@ -39,7 +39,7 @@ h1{
 .book button{
     width: 90%;
     border:none;
-    background-color: green;
+    background-color: #2ecc71;
     color: white;
     padding:1% 0;
     border-radius: 5px;
@@ -49,6 +49,7 @@ h1{
 .book h3{
     font-weight: 400;
     font-size: 17px;
+	color:#777777;
 }
 
 
