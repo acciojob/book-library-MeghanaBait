@@ -47,7 +47,7 @@ h1{
     
 }
 
-.book p{
+.book .author{
     font-weight: 400;
     font-size: 17px;
 	color:#777777;
