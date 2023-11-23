@@ -39,7 +39,7 @@ h1{
 .book button{
     width: 90%;
     border:none;
-    background-color: #2ecc71;
+    background-color: rgb(46,204,113);
     color: white;
     padding:1% 0;
     border-radius: 5px;
